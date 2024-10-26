@@ -8,8 +8,9 @@
 -->
 
 # Alice’s Adventures in Wonderland
+by Lewis Carroll
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Who in the world am I? Ah, that's the great puzzle_
 
 </header>
 
@@ -18,15 +19,11 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## by Lewis Carroll
-
-_Congratulations friend, you've completed this course!_
-
-<img src="https://imagesonline.bl.uk/cdn/britishlibrary/previews/483/2ed9edc41090e1f4eb0b003a9343f678/35/e2b1a4fcf4da97e4e51b263dcb262632/144744.jpg" alt=celebrate width=300 align=right>
-=======
 ## Finish
+**Create a site or blog from your GitHub repositories with GitHub Pages.**
 
 _Congratulations friend, you've completed this course!_
+<img src="https://imagesonline.bl.uk/cdn/britishlibrary/previews/483/2ed9edc41090e1f4eb0b003a9343f678/35/e2b1a4fcf4da97e4e51b263dcb262632/144744.jpg" alt=celebrate width=300 align=right>
 
 Your blog is now live and has been deployed!
 
@@ -36,7 +33,6 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You selected a theme using the config file.
 - You learned about proper directory format and file naming conventions in Jekyll.
 - You created your first blog post with Jekyll!
-
 
 ### Contents
 
@@ -86,7 +82,6 @@ At Alice's urging, Carroll later developed the story and wrote it down. She rece
 
 There was little in the children's literature of the time that can be seen as precursors to Alice. The main trend was religious and morally didactic children's books, which intended to teach and shape both the readers and the main characters. However, there are exceptions. Charles Dickens' novels have many examples of children at the mercy of living with brutal, strange or unreasonable adults, such as David Copperfield (1850). Ludvig Holberg's Niels Klim's Subterranean Journey was published in English in 1845, and Jules Verne's A Journey to Earth's Interior was published in 1864. At the same time, Charles Kingsley's The Water Babies (1863) was also published, which mixes satire, moral education and a fantasy -like journey of transformation.
 
-=======
 ### What's next?
 
 
